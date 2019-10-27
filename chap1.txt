@@ -1,0 +1,12 @@
+1.print
+2.("egg")
+3.print("e")
+4.print("earth")
+5.print("sun")
+6.string
+7.print("ABC")
+8.print("Hello")
+9.print("farrukh")
+10.print("dog")
+11.print("Hello,World!")
+12.print("farrukh")

@@ -1,0 +1,14 @@
+1.string
+2.variable
+3.care = "Boo!"
+4.bird = "jay"
+5.name = "farrukh"
+6.variable = "name"
+7.print(my_name)
+8.variable = "name"
+9.country_of_origin
+10.greeting = "Hi"
+11.variable = "string"
+   print(variable)
+12.name = "Farrukh"
+   print(name)

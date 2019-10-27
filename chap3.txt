@@ -1,0 +1,15 @@
+1.integer
+2.2
+3.players = 5
+4.loss = -6
+5.12
+6.total = 12
+7.negative_integer = -4
+8.string
+9.c = a + b
+10.unning_total = running_total + 5
+11.a = 2 + 2
+   prlnt(a)
+12.total = 102.20
+   divide = total/2
+   print(divide)
