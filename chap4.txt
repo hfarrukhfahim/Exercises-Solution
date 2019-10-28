@@ -1,0 +1,15 @@
+1.total = 4 + 6
+2.30
+3.outcome = 12 / .5
+4.each share = total / 3
+5.difference = 5 - 3
+6.divide = one variable / another variable
+7.diff = 20 - num
+8.a = a * a
+9.product = 1 * 2 * 3
+10.print(a * b)
+11.a = 2
+   b = 1
+   c = a * b
+   print(c)
+12.print(4/2)

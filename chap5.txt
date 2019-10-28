@@ -1,0 +1,19 @@
+1.2
+2.-
+3.customer last name
+4.total after tax
+5.number 1
+6.variable = "string"
+7.number = 2
+8.sum = 2 + 5
+9.one variable = second variable
+10.c = a / b 
+11.fourth = "yes"
+   negative_answer = "no"
+   asian_country = "China"
+   african_country = "Kenya"
+   print("ok")
+12.first_variable = 1
+   another_variable = 2
+   one_more_variable = 3
+   print(another_variable)
