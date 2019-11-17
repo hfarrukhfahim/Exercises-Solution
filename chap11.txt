@@ -1,0 +1,31 @@
+1.else:
+2.elif
+3.else:
+4.elif c == d:
+5.if a == b:
+    c = d
+  else:
+    e = f
+6.if a == b:
+    c = d
+  elif e == f:
+    g = h
+7.1
+8.elif a == 2:
+    print("a equals 2")
+9.else:
+    print("failed")
+10.if a == b:
+     print("ok")
+   elif c == d:
+     print("ok")
+   else:
+     print("failed")
+11.if "dog" == "cat":
+      print("That's crazy")
+    else:
+      print("wrong")
+12.if "dog" == "cat":
+      proosition = "crazy"
+    elif "cat" == "cat":
+      print("ok")

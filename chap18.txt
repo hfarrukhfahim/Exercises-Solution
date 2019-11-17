@@ -1,0 +1,17 @@
+1.del
+2.remove
+3.del products[2]
+4.products.remove("lamp")
+5.del products[2]
+6.products.remove("chair")
+7.del num[2]
+8.variable.remove("String")
+9.list.append("farrukh")
+  list.remove("farrukh")
+10.del flowers[3]
+11.products = ["lamp", "table", "chair", "couch", "sink"]
+   del products[4]
+   print(products)
+12.products = ["lamp", "table", "chair", "couch", "sink"]
+   products.remove("sink")
+   print(products)

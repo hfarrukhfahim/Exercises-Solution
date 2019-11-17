@@ -1,0 +1,16 @@
+1.pop
+2.2
+3..pop(0)
+4.x = y.pop(1)
+5.x = y.pop(1)
+6.x.append(y.pop(0))
+7.x.insert(2, y.pop(3))
+8.x = y.pop()
+9.x = 100 + y.pop(5)
+10.x.append(x.pop(0))
+11.y = [5, 11, 8, 2, 44]
+   x = y.pop(3)
+   print(x)
+12.hoppers = ["rabbit", "hare", "bunny", "cottontail"]
+   pets = ["dog", "cat", "fish"]
+   print(pets)

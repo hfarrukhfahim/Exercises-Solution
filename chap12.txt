@@ -1,0 +1,19 @@
+1.and
+2.or
+3.if city == "London" or city == "TelAviv":
+4.if total == 10 or total == 20:
+5.if first_name == "Issac" and last_name == "Newton":
+    print("Thanks!")
+6.if x <= 5 or y >=10:
+    print("yes")
+7.if animal == "dog" or animal == "cat" or animal == "mouse":
+    print("mammal")
+8.if nationality == "UK" and (age < 21 or age > 64):
+    print("qualified")
+9.if age >= 21 or permission == "ok":
+    print("ok")
+10.(a == b and c == d) or (e == f or g == h):
+11.if 2 == 3 or 3 != 4:
+     print("ok")
+12.if 1 + 1 == 2 and 2 + 2 == 4:
+     print("ok")

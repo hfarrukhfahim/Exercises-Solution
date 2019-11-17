@@ -1,0 +1,15 @@
+1.tuples
+2.x = (10, 9)
+3.greetings = ("hi", "bye")
+4.nums = (1, 2)
+5.
+6.numbers = (1, 2, 3)
+7.display = x[1] + "," + y[2]
+8.name = ("hafiz", "farrukh", "fahim")
+9.numbers = (1, 2, 3)
+10.names = ("ammad" , "farrukh", Sajjad")
+   list.append(names[2])
+11.tuple = (1, 2)
+   print(tuple[1])
+12.tuple = (0, 1, 2)
+   print(tuple[0])

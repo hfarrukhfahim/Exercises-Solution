@@ -1,0 +1,34 @@
+1.#
+2.'''
+3.# this is a comment.
+4.'''
+  This is a comment.
+  '''
+5.# this is a comment.
+6.# comment
+  # comment
+7.'''
+  This is a comment.
+  '''
+8.# this is a comment.
+  f = 2
+9.'''
+  comment
+  this is a comment.
+  '''
+10.a = 1
+  # b = two sisters
+  c = 3
+  # d = 4 + "dog"
+11.a = 1
+   if a == 1:
+   # "cat" = species
+   # |next_number == 2
+     print("ok")
+12.''' 
+   This is a comment.
+   This is a another comment.
+   This is a third comment.
+   This is a fourth comment.
+   '''
+   print("ok")

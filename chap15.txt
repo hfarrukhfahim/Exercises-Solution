@@ -1,0 +1,15 @@
+1.list
+2.
+3., 0]
+4.noncolors = ["black"]
+5.0
+6.19
+7.city_3 = cities[2]
+8.integers = [1, 2, 3]
+9.list = ["string1", "string2"]
+10.print(seas[3])
+11.weekdays = ["Mon", "Tue", "Wed", "Thu", "Fri"]
+   fifth_weekday = weekdays[4]
+   print(fifth_weekday)
+12.list = [1, 2, 3]
+   print(list)
