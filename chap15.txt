@@ -1,5 +1,5 @@
 1.list
-2.
+2.[]
 3., 0]
 4.noncolors = ["black"]
 5.0
